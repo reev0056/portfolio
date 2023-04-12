@@ -1,1 +1,5 @@
-# portfolio
+I started by sketching out a rough design of the portfolio, and then moved on to wireframing and prototyping using Adobe Xd. This helped me to visualize how the final product would look like and gave me a sense of direction.
+
+One of the challenges I faced during development was learning Bootstrap. Although it is a powerful and widely-used framework, it was a bit difficult for me to grasp at first. However, I overcame this challenge by taking a step-by-step approach and breaking down the learning process into smaller, manageable tasks. I also made use of online resources such as tutorials and documentation to help me better understand the framework.
+
+Through the process of creating my web portfolio, I learned a lot about web design and development, as well as the importance of good organization and attention to detail. I also learned the value of keeping things simple and easy to understand, both for myself and for my audience. Overall, I am proud of the final product and excited to continue to learn and improve my skills in web development.
