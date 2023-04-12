@@ -1,0 +1,43 @@
+.about-text {
+  line-height: 40px;
+  color: black;
+}
+
+@media only screen and (max-width: 768px) {
+  .about-title {
+    font-size: 2rem !important;
+  }
+  .about-text {
+    font-size: 1.2rem !important;
+    padding-left: 40px;
+    color: black;
+  }
+
+  img {
+    object-fit: cover;
+    width: calc(100% + 30px);
+  }
+
+  .logo {
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+
+  .about-text {
+    padding-left: 10px;
+
+  }
+  .logo {
+    object-fit: cover;
+    width: 100px;
+    height: 100px;
+  }
+  img {
+    object-fit: cover;
+    width: 100%
+  }
+}

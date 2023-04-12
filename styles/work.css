@@ -1,0 +1,22 @@
+.work-text {
+    line-height: 40px;
+    color: black;
+    margin-left: 50px;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .work-title {
+      font-size: 2rem !important;
+    }
+    .work-text {
+      font-size: 1.2rem !important;
+      margin-left: 0px;
+      color: black;
+    }
+  
+    /* img {
+      object-fit: cover;
+      width: 100%;
+      height: auto;
+    } */
+  }

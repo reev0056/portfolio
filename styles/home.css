@@ -1,0 +1,36 @@
+
+.contact{
+    background-color: #F5CB6B;
+}
+
+.fs-2{
+    color: black;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .fs-1 {
+        font-size: 2.5rem!important;
+    }
+
+    .d-flex{
+        flex-direction: row;
+    }
+}
+
+
+
+@media only screen and (max-width: 425px) {
+    .row{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    a h1{
+        font-size: 1.8rem!important;
+    }
+
+    .nav-link{
+        font-size: 2rem!important;
+    }
+}

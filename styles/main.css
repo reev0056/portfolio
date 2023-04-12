@@ -1,0 +1,48 @@
+@font-face {
+  font-family: Limerick Regular;
+  src: url("../fonts/Limerick\ Regular.ttf");
+}
+
+body {
+  font-family: Limerick Regular;
+  background-color: #fff;
+}
+
+.footer-home{
+  margin-top: 14rem!important;
+}
+
+.footer-about{
+  margin-top: 15.5rem!important;
+}
+
+.footer-work{
+  margin-top: 11rem !important;
+}
+.fs-1 {
+    font-size: 3.5rem!important;
+    color: black;
+    letter-spacing: 1.25px;
+}
+
+
+.nav-link:hover{
+  border-bottom: 3px solid black;
+  transition: border-bottom 0.5s ease-in-out;
+}
+
+
+@media only screen and (max-width: 768px) {
+   .d-flex{
+      flex-direction: row;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+   .nav-link{
+      font-size: 2rem!important;
+  }
+}
+
+
+

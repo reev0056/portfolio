@@ -1,0 +1,24 @@
+
+@media only screen and (max-width: 768px) {
+    .icon{
+        width: 80px;
+        height: 80px;
+    }
+    .mail-text {
+        font-size: 2rem!important;
+      }
+}
+
+
+
+@media only screen and (max-width: 425px) {
+    .icon{
+        width: 60px;
+        height: 60px;
+    }
+  .mail-text {
+    font-size: 1.5rem!important;
+  }
+
+
+}

@@ -1,0 +1,19 @@
+
+.contact{
+    background-color: #F5CB6B;
+    color: black;
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    .contact-title{
+        font-size: 2.2rem!important;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .contact-title{
+        font-size: 2rem!important;
+    }
+}
